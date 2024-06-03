@@ -3,3 +3,7 @@ print(a)
 b=20
 print(b)
 print(a+b)
+
+c=40
+print(c)
+
